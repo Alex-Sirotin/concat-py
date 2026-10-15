@@ -1,0 +1,6 @@
+Package: concat-py
+Version: 1.0.0
+Architecture: all
+Maintainer: Alex Sirotin <alexander.sirotin@gmail.com>
+Depends: python3
+Description: Concatenate project files into one with masks
